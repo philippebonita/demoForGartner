@@ -1,0 +1,33 @@
+{
+  "designerVersion" : "1.7.38",
+  "id" : "overviewForm",
+  "name" : "overviewForm",
+  "lastUpdate" : 1525353431376,
+  "rows" : [ [ {
+    "type" : "container",
+    "dimension" : {
+      "xs" : 12
+    },
+    "propertyValues" : { },
+    "reference" : "6d690ef5-1ecb-43f2-9eb0-d06e6e07dd82",
+    "id" : "pbContainer",
+    "rows" : [ [ ] ]
+  } ] ],
+  "assets" : [ {
+    "id" : "eadcda8f-45cd-41e7-9098-c148bfa03503",
+    "name" : "style.css",
+    "type" : "css",
+    "order" : 0,
+    "external" : false
+  }, {
+    "id" : "714c277a-e956-48eb-a299-96c8855dfc34",
+    "name" : "localization.json",
+    "type" : "json",
+    "order" : 0,
+    "external" : false
+  } ],
+  "inactiveAssets" : [ ],
+  "data" : { },
+  "uuid" : "b10c0e41-affa-4542-8703-2e6852727751",
+  "type" : "form"
+}
